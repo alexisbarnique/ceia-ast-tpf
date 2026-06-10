@@ -2,10 +2,14 @@
 ---
 
 **TPF — AST | CEIA Bimestre 5**  
+
 **Autores:**
 Alexis Barniquez
+
 Barbara Cerezo
+
 Daniel Paniagua
+
 ---
 
 ## Enunciado
