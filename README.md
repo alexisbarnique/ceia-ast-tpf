@@ -47,3 +47,7 @@ del grupo.
 ### Requisitos
 
 - Python 3.11+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn statsmodels
